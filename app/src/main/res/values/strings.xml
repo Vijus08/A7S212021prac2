@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">A7S212021prac2</string>
+    <string name="TituloInicio">Titulo de la Aplicación</string>
+    <string name="TituloPrincipal">Menú Principal</string>
+    <string name="BtnSuma">Realizar Suma</string>
+    <string name="TituloSumar">Sumar Dos Valores</string>
+    <string name="EtiqNum1">Introduzca el Primer Valor</string>
+    <string name="EtiqNum2">Introduzca el Segundo Valor</string>
+    <string name="BtnResultado">Calcular Resultado</string>
+    <string name="BtnResta">Realizar Resta</string>
+    <string name="BtnDivision">Realizar División</string>
+    <string name="BtnMulti">Realizar Multiplicación</string>
+    <string name="BtnCuadrado">Elevar al Cuadrado</string>
+    <string name="TituloRestar">Restar Dos Valores</string>
+    <string name="TutuloDividir">Dividir Dos Valores</string>
+    <string name="TituloMultiplicar">Multiplicar Dos Valores</string>
+    <string name="TituloCuadrado">Elevar al Cuadrado</string>
+</resources>
